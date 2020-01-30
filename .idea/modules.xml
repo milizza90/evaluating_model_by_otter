@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Evaluating_STT_by_Otter.iml" filepath="$PROJECT_DIR$/.idea/Evaluating_STT_by_Otter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youtube_scarping/.idea/youtube_scarping.iml" filepath="$PROJECT_DIR$/../youtube_scarping/.idea/youtube_scarping.iml" />
+    </modules>
+  </component>
+</project>
